@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Rafael Arcanjo
 
-- Estudando Javascript
+- Desenvolvedor Java
 - Contato pelo email: rafael.arcanjo.dssilva@gmail.com
 - pronomes: ele/dele
 
